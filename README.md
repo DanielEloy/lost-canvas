@@ -1,2 +1,0 @@
-# lost-canvas
-Tela perdida
